@@ -52,7 +52,7 @@ app.post('/users', (request, response) => {
 });
 
 app.get('/todos', checksExistsUserAccount, (request, response) => {
-  const {todos}  = request.user;
+  const { todos } = request.user;
 
   return response.json(todos);
 });
@@ -66,7 +66,7 @@ app.post('/todos', checksExistsUserAccount, (request, response) => {
     title,
     done: false,
     deadline: new Date(deadline),
-    create_at: new Date()
+    created_at: new Date()
   }
 
   user.todos.push(newToDo);
