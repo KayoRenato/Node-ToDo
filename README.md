@@ -65,8 +65,7 @@ $ yarn dev
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
+This project is under license from MIT. For more details, see the [LICENSE](License.md) file.
 
 Buy me a :coffee: by <a href="https://www.linkedin.com/in/kayo-renato/" target="_blank">KayoRenato</a>
 
