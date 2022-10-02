@@ -1,30 +1,8 @@
 <h1 align="center">Node ToDo</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8">
-
   <a href="https://insomnia.rest/run/?label=Node%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FKayoRenato%2FNode-ToDo%2Fmain%2FInsomnia_API.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/desafio?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Desafio 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
