@@ -24,9 +24,9 @@ Creating the backend of a to-do list.
 
 :heavy_check_mark: Create new todo;\
 :heavy_check_mark: List all todos;\
-:heavy_check_mark: Change title and deadline of the todo;
-:heavy_check_mark: Check todo list;
-:heavy_check_mark: Delete todo list;
+:heavy_check_mark: Change title and deadline of the todo;\
+:heavy_check_mark: Check todo list;\
+:heavy_check_mark: Delete todo list.
 
 ## :rocket: Technologies ##
 
@@ -41,7 +41,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato/Node-ToDo
+$ git clone git@github.com:KayoRenato/Node-ToDo.git Node-ToDo 
 
 # Access
 $ cd Node-ToDo
@@ -49,8 +49,14 @@ $ cd Node-ToDo
 # Install dependencies
 $ yarn
 
+# Check dependencies
+$ yarn dep-check
+
+# Test the project
+$ yarn test
+
 # Run the project
-$ yarn start
+$ yarn dev
 
 # The server will initialize in the <http://localhost:3333>
 ```
@@ -60,7 +66,9 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato" target="_blank">KayoRenato</a>
+Buy me a :coffee: by <a href="https://github.com/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato" target="_blank">KayoRenato</a>
+
+<img src="img/buy_coffee.jpg" alt="buy me a coffee" width="150" height="150">
 
 &#xa0;
 
