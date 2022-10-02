@@ -32,10 +32,12 @@ Creating the backend of a to-do list.
 
 The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
+- [Nodemon](https://nodemon.io/)
+- [Jest](https://jestjs.io/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Yarn](https://yarnpkg.com/) or [Npm](https://www.npmjs.com/) installed.
 
 ## :checkered_flag: Starting ##
 
