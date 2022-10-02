@@ -11,7 +11,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/https:&#x2F;&#x2F;github.com&#x2F;KayoRenato" target="_blank">Author</a>
+  <a href="https://www.linkedin.com/in/kayo-renato/" target="_blank">Author</a>
 </p>
 
 <br>
